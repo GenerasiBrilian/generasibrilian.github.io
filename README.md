@@ -1,8 +1,7 @@
 ## Welcome to Generasi Brilian Software GitHub Pages
+![Image](https://generasibrilian.com/mesin/img/logo.png)
 
-You can use the ![Image](https://generasibrilian.com/mesin/img/logo.png) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Homepage](https://web.generasibrilian.com)
 
 ### Markdown
 
